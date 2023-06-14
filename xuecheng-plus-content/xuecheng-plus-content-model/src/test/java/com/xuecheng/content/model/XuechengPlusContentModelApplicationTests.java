@@ -1,6 +1,6 @@
 package com.xuecheng.content.model;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
